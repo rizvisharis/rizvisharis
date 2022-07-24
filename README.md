@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Back-End Software Engineer from Srilanka
 
-- 🔭 I’m currently working on multiple backend projects using Laravel and Spring Boot
+- 🔭 I’m currently working on multiple backend projects using Laravel
 - 🌱 I’m currently learning on Python and JS
 <br>
 
